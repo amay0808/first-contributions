@@ -20,6 +20,7 @@
 - [Josh Gregory](https://github.com/joshtype)
 - [lepickel](https://github.com/lepickel)
 - [Adarsh84](https://github.com/adarshM84)
+- [Adrian](https://github.com/amay0808/amay0808)
 - [hectoru10](https://github.com/Hectoru10)
 - [Ahorts](https://github.com/Ahorts)
 - [lennyhurni](https://github.com/lennyhurni)
